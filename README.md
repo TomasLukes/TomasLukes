@@ -6,7 +6,7 @@ I am Front End React developer.
 
 *   🌍  I'm based in Prague, Czech republic
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://tomaslukes.com'>tomaslukes.com</a>
-*   🧠  Currently planning a larger React e-commerce project where I will have the chance to learn working with Firebase as well.
+*   🧠  Currently planning a larger React e-commerce project where I will have the chance to learn working with Firebase as well
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ## Technologies Used
