@@ -30,16 +30,16 @@ I am Front End React developer.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.1d7370c252.svg" width="36" height="36" alt="Tailwind CSS" />
+    <img src="https://www.tomaslukes.com/assets/images/icons/tech/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+    <img src="https://www.tomaslukes.com/assets/images/icons/tech/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
+    <img src="https://www.tomaslukes.com/assets/images/icons/tech/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
@@ -48,8 +48,8 @@ I am Front End React developer.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a
 
+    
 ### Socials
-
 <p align="left"> 
   <a href="https://www.github.com/TomasLukes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/tomas-lukes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"   
    height="32" /></a>
