@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tomas Lukes
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tomas Lukes
 ========================================================================================================================================
 
-I am Front End React developer.
+I am a Frontend React developer.
 --------------------------
 
-*   🌍  I'm based in Prague, Czech republic
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://tomaslukes.com'>tomaslukes.com</a>
-*   🧠  Currently planning a larger React projects where I will have the chance to learn working with Next.js, Typescript and Firebase
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🌍 I'm based in Prague, Czech Republic
+*   🖥️ See my portfolio at [tomaslukes.com](https://tomaslukes.com)
+*   🧠 Currently learning Next.js, TypeScript, and Firebase while working on large-scale React projects.
+*   🤝 I'm open to collaborating on interesting projects as a developer
 
 ## Technologies Used
 <p align="left">
@@ -22,7 +22,9 @@ I am Front End React developer.
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
+</p>
+
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
@@ -46,14 +48,14 @@ I am Front End React developer.
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a
-
-    
-### Socials
-<p align="left"> 
-  <a href="https://www.github.com/TomasLukes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/tomas-lukes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"   
-   height="32" /></a>
+  </a>
 </p>
 
-<a href="http://www.github.com/TomasLukes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasLukes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Socials
+<p align="left"> 
+  <a href="https://www.github.com/TomasLukes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/tomas-lukes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
+## GitHub Stats
+<a href="http://www.github.com/TomasLukes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasLukes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
