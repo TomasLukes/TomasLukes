@@ -1,10 +1,8 @@
 Tomas Lukes - React Frontend developer
 ========================================================================================================================================
-
-*   🌍 I'm based in Prague, Czech Republic
+*   👨🏻‍💻 Currently I'm working for @akcentacz 
+*   🌍 Based in Prague, Czech Republic
 *   🖥️ See my portfolio at [tomaslukes.com](https://tomaslukes.com)
-*   🧠 Currently learning Next.js, TypeScript, and Firebase while working on large-scale React projects.
-*   🤝 I'm open to collaborating on interesting projects as a developer
 
 ## Technologies Used
 <p align="left">
