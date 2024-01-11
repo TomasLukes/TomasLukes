@@ -1,4 +1,4 @@
-Tomas Lukes - React Frontend developer
+Tomas Lukes - Frontend developer
 ========================================================================================================================================
 *   👨🏻‍💻 Currently I'm working for @akcentacz 
 *   🌍 Based in Prague, Czech Republic
