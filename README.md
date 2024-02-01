@@ -1,6 +1,6 @@
 Tomas Lukes - Frontend developer
 ========================================================================================================================================
-*   👨🏻‍💻 Currently I'm working for @akcentacz 
+*   👨🏻‍💻 Currently I'm working on fintech projects for @akcentacz 
 *   🌍 Based in Prague, Czech Republic
 *   🖥️ See my portfolio at [tomaslukes.com](https://tomaslukes.com)
 
