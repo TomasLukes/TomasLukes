@@ -1,6 +1,6 @@
 Tomas Lukes - Frontend developer
 ========================================================================================================================================
-*   👨🏻‍💻 Currently I'm working on fintech projects for @akcentacz 
+*   👨🏻‍💻 Currently I'm working on ad testing and brand tracking software solutions for @behavio 
 *   🌍 Based in Prague, Czech Republic
 *   🖥️ See my portfolio at [tomaslukes.com](https://tomaslukes.com)
 
@@ -10,7 +10,7 @@ Tomas Lukes - Frontend developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.tomaslukes.com/assets/images/icons/tech/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/nextjs-dark.svg" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -19,7 +19,7 @@ Tomas Lukes - Frontend developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tomaslukes.com/assets/images/icons/tech/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
   </a>
 </p>
 
@@ -30,14 +30,11 @@ Tomas Lukes - Frontend developer
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
-    <img src="https://www.tomaslukes.com/assets/images/icons/tech/rest-api.png" width="36" height="36" alt="Rest API" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tomaslukes.com/assets/images/icons/tech/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/TomasLukes/portfolio-next/blob/main/public/assets/icons/techstack/supabase.png?raw=true" width="36" height="36" alt="Supabase" />
   </a>
     <a href="https://strapi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tomaslukes.com/assets/images/icons/tech/strapi.png" width="36" height="36" alt="Strapi" />
+    <img src="https://github.com/TomasLukes/portfolio-next/blob/main/public/assets/icons/techstack/strapi.png?raw=true" width="36" height="36" alt="Strapi" />
   </a>
 </p>
 
